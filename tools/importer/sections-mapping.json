@@ -1,0 +1,179 @@
+{
+  "url": "https://www.shredit.com/en-us",
+  "sanitizedPath": "/en-us",
+  "autoDetect": true,
+  "mapping": [
+    {
+      "id": "1",
+      "path": "/nav",
+      "sections": [
+        {
+          "id": "1-1",
+          "blocks": [
+            {
+              "id": "box-id-1722200707",
+              "color": "rgba(0, 0, 255, 1)",
+              "width": 1268,
+              "height": 164,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"contentcontainer-360a555340\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"pageheader aem-GridColumn aem-GridColumn--default--12\"]/header[@class=\"page-header__cmp\"]/div[@class=\"page-header__content\"]/div[@class=\"page-header__container container\"]/div[@class=\"page-header__logo\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"contentcontainer-360a555340\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"pageheader aem-GridColumn aem-GridColumn--default--12\"]/header[@class=\"page-header__cmp\"]/div[@class=\"page-header__content\"]/div[@class=\"page-header__container container\"]/div[@class=\"page-header__site-nav\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 0,
+              "y": 0,
+              "mapping": "header",
+              "customBlockName": "ai-header"
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "path": "/en-us",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id--2147192605",
+              "color": "rgba(0, 0, 255, 1)",
+              "width": 1268,
+              "height": 463,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 164,
+              "mapping": "hero",
+              "customBlockName": "ai-hero"
+            },
+            {
+              "id": "box-id--2147192574",
+              "color": "rgba(0, 0, 255, 1)",
+              "width": 1268,
+              "height": 475,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"contentcontainer-d8c2ed8bcd\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"pagesection responsivegrid ss-bg-color--gray aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"cmp-pagesection\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"columnrow ss-vertical-space--no-space ss-vertical-dividers aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"row cmp-columnrow\"]/div[@class=\"col-lg-4 cmp-columnrow__item\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"contentcontainer-d8c2ed8bcd\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"pagesection responsivegrid ss-bg-color--gray aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"cmp-pagesection\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"columnrow ss-vertical-space--no-space ss-vertical-dividers aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"row cmp-columnrow\"]/div[@class=\"col-lg-4 cmp-columnrow__item\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                  "xpathWithDetails": "id(\"contentcontainer-d8c2ed8bcd\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"pagesection responsivegrid ss-bg-color--gray aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"cmp-pagesection\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"columnrow ss-vertical-space--no-space ss-vertical-dividers aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"row cmp-columnrow\"]/div[@class=\"col-lg-4 cmp-columnrow__item\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 3,
+                "numRows": 1
+              },
+              "x": 0,
+              "y": 627,
+              "mapping": "cards",
+              "customBlockName": "ai-cards"
+            },
+            {
+              "id": "box-id--2147192543",
+              "color": "rgba(0, 0, 255, 1)",
+              "width": 1268,
+              "height": 254,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"contentcontainer-218777c14e\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"pagesection responsivegrid ss-v-space--small ss-bg-color--white aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"cmp-pagesection\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"text ss-font-color--black ss-alignment--center aem-GridColumn aem-GridColumn--default--12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"contentcontainer-218777c14e\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"pagesection responsivegrid ss-v-space--small ss-bg-color--white aem-GridColumn aem-GridColumn--default--12\"]/div[@class=\"cmp-pagesection\"]/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"columnrow aem-GridColumn aem-GridColumn--default--12\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 1,
+                "numRows": 2
+              },
+              "x": 0,
+              "y": 1103,
+              "mapping": "cards",
+              "customBlockName": "ai-cards-2"
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "path": "/footer",
+      "sections": [
+        {
+          "id": "3-1",
+          "blocks": [
+            {
+              "id": "box-id-1722200769",
+              "color": "rgba(0, 0, 255, 1)",
+              "width": 1268,
+              "height": 1067,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"contentcontainer-3931ac0237\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"pagefooter aem-GridColumn aem-GridColumn--default--12\"]/footer[@class=\"page-footer__cmp\"]/div[@class=\"page-footer__container container\"]/div[@class=\"page-footer__logo\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"contentcontainer-3931ac0237\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"pagefooter aem-GridColumn aem-GridColumn--default--12\"]/footer[@class=\"page-footer__cmp\"]/div[@class=\"page-footer__container container\"]/div[@class=\"page-footer__telephone\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[3]",
+                  "xpathWithDetails": "id(\"contentcontainer-3931ac0237\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"pagefooter aem-GridColumn aem-GridColumn--default--12\"]/footer[@class=\"page-footer__cmp\"]/div[@class=\"page-footer__container container\"]/div[@class=\"page-footer__links\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[5]",
+                  "xpathWithDetails": "id(\"contentcontainer-3931ac0237\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"pagefooter aem-GridColumn aem-GridColumn--default--12\"]/footer[@class=\"page-footer__cmp\"]/div[@class=\"page-footer__container container\"]/div[@class=\"page-footer__text\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[6]",
+                  "xpathWithDetails": "id(\"contentcontainer-3931ac0237\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"pagefooter aem-GridColumn aem-GridColumn--default--12\"]/footer[@class=\"page-footer__cmp\"]/div[@class=\"page-footer__container container\"]/div[@class=\"page-footer__legal-block\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[7]",
+                  "xpathWithDetails": "id(\"contentcontainer-3931ac0237\")/div[@class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\"]/div[@class=\"pagefooter aem-GridColumn aem-GridColumn--default--12\"]/footer[@class=\"page-footer__cmp\"]/div[@class=\"page-footer__container container\"]/div[@class=\"page-footer__legal-block\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 5
+              },
+              "x": 0,
+              "y": 3467,
+              "mapping": "defaultContent",
+              "customBlockName": "ai-footer"
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    }
+  ]
+}
